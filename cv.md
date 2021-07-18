@@ -11,7 +11,7 @@ Hi! My name is Octavian Magdei. I am a third year student in information securit
 
 ---
 
-**[Universitatea Tehnica a Moldovei](https://utm.md/)**
+**[Universitatea Tehnica a Moldovei](https://utm.md/)**\
 **Information Security**
 _September 2019 - 2023 | Chisinau_
 
