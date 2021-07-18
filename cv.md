@@ -5,7 +5,7 @@ Hi! My name is Octavian Magdei. I am a third year student in information securit
 **My priorities:** I want to know more about front-end, improving knowledge of tehnologies like HTML, CSS, JS and other.\
 **My strengths:** I'm able to learn new technologies quickly.
 
-`Tech skills:` **C, C++, basics of HTML5, CSS, PHP.**\
+`Tech skills:` **C, C++, basics of HTML5, CSS, PHP.**
 
 ### Education
 
